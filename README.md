@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm Elisa</h1>
 <h3 align="center">A passionate frontend developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elisatorelli&label=Profile%20views&color=0ecfdd&style=plastic" alt="elisatorelli" /> </p>
 
 - 👩🏻‍💻 I’m currently learning **React / mastering JS / Web3 (and a lot more...)**
 
